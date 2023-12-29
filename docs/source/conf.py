@@ -3,10 +3,10 @@
 # -- Project information
 
 project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+copyright = '2023, Baibai'
+author = 'ZhouqiangWang'
 
-release = '0.1'
+release = '1.0'
 version = '0.1.0'
 
 # -- General configuration
